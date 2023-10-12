@@ -1,0 +1,2 @@
+# Figure Checker
+This is an app which highlights numbers in texts. Different sets of professionals like data analysts , data miners and economists will find this useful. All they just need to do is paste their text orr type their text in the box and it will highlight all numbers present in red. RegEx was a major tool which I used for this.
